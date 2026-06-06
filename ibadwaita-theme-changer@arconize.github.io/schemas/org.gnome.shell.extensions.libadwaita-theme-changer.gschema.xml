@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.libadwaita-theme-changer" path="/org/gnome/shell/extensions/libadwaita-theme-changer/">
+    <key name="active-theme" type="s">
+      <default>''</default>
+      <summary>Active Libadwaita Theme</summary>
+      <description>The name of the currently active theme applied via symlinks.</description>
+    </key>
+  </schema>
+</schemalist>
