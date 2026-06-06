@@ -1,5 +1,5 @@
 {
-  "uuid": "libadwaita-theme-changer@odziom.github.io",
+  "uuid": "libadwaita-theme-changer@arconize.github.io",
   "name": "Libadwaita Theme Changer",
   "description": "Change Libadwaita themes by symlinking GTK-4.0 config files",
   "version": 1,
