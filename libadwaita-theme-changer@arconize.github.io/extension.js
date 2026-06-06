@@ -88,7 +88,10 @@ export function applyTheme(themeName) {
 // ── Extension entry points ────────────────────────────────────────
 export default class LibadwaitaThemeChangerExtension extends Extension {
   enable() {
-    this._settings = this.getSettings();
+    // Pass the schema ID explicitly
+    this._settings = this.getSettings(
+      "org.gnome.shell.extensions.libadwaita-theme-changer",
+    );
 
     // Apply the saved theme on login/startup
     const savedTheme = this._settings.get_string("active-theme");
