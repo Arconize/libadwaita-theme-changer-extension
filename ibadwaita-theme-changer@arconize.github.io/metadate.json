@@ -1,8 +1,0 @@
-{
-  "uuid": "libadwaita-theme-changer@odziom.github.io",
-  "name": "Libadwaita Theme Changer",
-  "description": "Change Libadwaita themes by symlinking GTK-4.0 config files",
-  "version": 1,
-  "shell-version": ["45", "46", "47", "48", "49", "50"],
-  "url": ""
-}
