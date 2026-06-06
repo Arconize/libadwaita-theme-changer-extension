@@ -37,19 +37,18 @@ All the logic for how the themes are applied (by symlinking `gtk.css`, `gtk-dark
 
 2. Copy the extension to your local GNOME extensions directory:
     
-    bash
-    
+    ```bash
     cp -r libadwaita-theme-changer-extension/libadwaita-theme-changer@arconize.github.io ~/.local/share/gnome-shell/extensions/
+    ```
     
 3. Restart GNOME Shell:
     - **On X11:** Press `Alt+F2`, type `r`, and press Enter.
     - **On Wayland:** Log out and log back in.
 4. Enable the extension:
     
-    bash
-    
+    ```bash
     gnome-extensions enable libadwaita-theme-changer@arconize.github.io
-    
+    ```
 
 ## 🛠️ How it works
 
