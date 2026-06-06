@@ -2,7 +2,7 @@
 
 A GNOME Shell extension to easily change Libadwaita/GTK4 themes directly from the system panel, using symbolic links.
 
-![Alt text](screenshots/screenshot.png)
+![Alt text](./screenshots/screenshot.png)
 
 ## 🙏 Credits & Inspiration
 
