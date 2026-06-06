@@ -2,6 +2,8 @@
 
 A GNOME Shell extension to easily change Libadwaita/GTK4 themes directly from the system panel, using symbolic links.
 
+![Alt text](screenshots/screenshot.png)
+
 ## 🙏 Credits & Inspiration
 
 This extension is a GNOME Shell port of the original **Libadwaita Theme Changer** Python CLI tool created by **OdzioM**.
