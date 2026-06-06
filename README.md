@@ -2,7 +2,7 @@
 
 A GNOME Shell extension to easily change Libadwaita/GTK4 themes directly from the system panel, using symbolic links.
 
-![Alt text](screenshots/screenshot.png)
+![Alt text](https://github.com/Arconize/libadwaita-theme-changer-extension/blob/main/screenshots/Screenshot.png)
 
 ## 🙏 Credits & Inspiration
 
@@ -23,7 +23,7 @@ All the logic for how the themes are applied (by symlinking `gtk.css`, `gtk-dark
 
 ## ⚠️ Requirements
 
-- **GNOME Shell 45, 46, 47, or 48** (Uses the new ESM import system).
+- **GNOME Shell 45..50** (Uses the new ESM import system).
 - Themes must be placed in `~/.themes/<ThemeName>/gtk-4.0/`.
 
 ## 📦 Manual Installation
